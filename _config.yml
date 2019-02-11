@@ -1,0 +1,8 @@
+title: Sublime ColorPicker
+description: A color picker plugin for Sublime Text 2
+google_analytics: UA-31677187-1
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
